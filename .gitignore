@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 /notes.txt
 /node_modules
+src/.env
+.env
